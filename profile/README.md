@@ -46,7 +46,7 @@ We encourage members to contribute to club projects and resources. Here's how yo
 For any questions or suggestions, feel free to reach out to us via:
 
 - **Email**: amuratov@abelardschool.org, brandys@abelardschool.org, jmoncarz@abelardschool.org
-- **Discord**: [Abelard School Computer Science Club Discord Server](https://discord.com)
+- **Discord**: [Abelard School Computer Science Club Discord Server](https://discord.gg/JvTk2faVT4)
 - **GitHub Issues**: Open an issue if you spot something that can be improved.
 
 ---
